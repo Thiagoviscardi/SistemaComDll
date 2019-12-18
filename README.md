@@ -11,7 +11,8 @@ Finalidade deste projeto Dll é criar reaproveitamento de código onde seja inte
 
 #Projeto web (testeSolucao): Possui a parte das controllers para ligar o front e o back (Dll). Além disso possui também um webservice.
 #Projeto Desktop: Contém um pequeno Crud em um sistema desktop
-#Projeto ServicoWindows: Contém um windows service onde a cada 10 segundos salva um usuário no banco de dados.
+#Projeto ServicoWindows: Contém um windows service onde a cada 10 segundos salva um usuário no banco de dados. Com um bat instalo direto
+no windows e coloco para rodar sempre que o computador iniciar.
 #Projeto Teste: Onde colocarei testes para usar emmeus projetos
 
 Este é um projeto interno para treinamento e crescimento. O intuito é ele ir crescendo com o tempo e se tornando cada vez mais complexo
